@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamilPietnicki)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamilPietnicki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
